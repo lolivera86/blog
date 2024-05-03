@@ -1,0 +1,151 @@
+# Páginas individuales
+- id: postedOnDate
+  translation: "Publicado el {{ . }}"
+- id: lastModified
+  translation: "Última modificación el {{ . }}"
+- id: read
+  translation: "leer"
+- id: minutesShort
+  translation: "min"
+- id: words
+  translation: "palabras"
+- id: photoFull
+  translation: "Foto de %s el %s"
+- id: photoShort
+  translation: "Foto de {{ . }}"
+- id: photoOn
+  translation: "en"
+- id: draft
+  translation: "Borrador"
+
+# Páginas de lista
+- id: article
+  translation: "Artículo"
+- id: articles
+  translation: "Artículos"
+- id: more
+  translation: "Más {{ . }}"
+- id: emptyList
+  translation: "No se encontraron artículos"
+- id: emptyTags
+  translation: "No se encontraron etiquetas"
+- id: readMore
+  translation: "Leer más"
+
+# Idiomas
+- id: lang_de
+  translation: "Alemán"
+- id: lang_en
+  translation: "Inglés"
+- id: lang_nl
+  translation: "Holandés"
+- id: lang_fr
+  translation: "Francés"
+
+# Compartir
+- id: shareLink
+  translation: "Compartir vía {{ . }}"
+- id: shareSystem
+  translation: "sistema"
+- id: copyToClipboard
+  translation: "copiar al portapapeles"
+- id: copiedToClipboard
+  translation: "copiado al portapapeles"
+- id: link
+  translation: "Enlace"
+- id: code
+  translation: "Código"
+- id: download
+  translation: "Descargar artículo"
+
+# Paginación
+- id: paginationNav
+  translation: "Navegación de página"
+- id: paginationPrevious
+  translation: "Página anterior"
+- id: paginationNext
+  translation: "Página siguiente"
+- id: paginationFirst
+  translation: "Primera página"
+- id: paginationLast
+  translation: "Última página"
+
+# Navegación
+- id: colorMode
+  translation: "Alternar tema"
+- id: colorLight
+  translation: "Claro"
+- id: colorDark
+  translation: "Oscuro"
+- id: colorAuto
+  translation: "Automático"
+- id: toggleMainNav
+  translation: "Alternar navegación principal"
+- id: home
+  translation: "Inicio"
+- id: languageSwitcherLabel
+  translation: "Idioma"
+- id: close
+  translation: "Cerrar"
+
+# Tabla de contenido
+- id: toc
+  translation: "En esta página"
+- id: seeAlso
+  translation: "Ver también"
+- id: sectionMenu
+  translation: "Seleccionar un tema"
+
+# Barra lateral
+- id: toggleSidebar
+  translation: "Alternar navegación de la barra lateral"
+
+# Característica
+- id: addedFeature
+  translation: "Añadido en {{ . }}"
+- id: deprecatedFeature
+  translation: "Obsoleto en {{ . }}"
+
+# Versionado
+- id: latest
+  translation: "último"
+- id: allVersions
+  translation: "Todas las versiones"
+- id: newerVersionAlert
+  translation: "¡Hay una versión más reciente de {{ . }}!"
+
+# Página 404
+- id: pageNotFound
+  translation: "La página que buscas no existe o se ha producido otro error. Intenta volver a nuestra {{ . }}."
+- id: pageNotFoundTitle
+  translation: "Página no encontrada"
+- id: pageNotFoundHome
+  translation: "página de inicio"
+
+# Pie de página
+- id: copyright
+  translation: "Derechos de autor"
+- id: rights
+  translation: "Todos los derechos reservados"
+- id: poweredBy
+  translation: "Desarrollado por {{ . }}."
+
+# Comentarios
+- id: show
+  translation: "Mostrar"
+- id: comments
+  translation: "Comentarios" 
+
+# Argumentos
+- id: name
+  translation: "Nombre"
+- id: type
+  translation: "Tipo"
+- id: required 
+  translation: "Requerido"
+- id: default
+  translation: "Predeterminado"
+- id: comment
+  translation: "Comentario"
+- id: supportedValues
+  translation: "Valores admitidos"
