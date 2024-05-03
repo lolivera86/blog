@@ -87,6 +87,8 @@
   translation: "Idioma"
 - id: close
   translation: "Cerrar"
+- id: searchBar
+  translation: "Cerrar"  
 
 # Tabla de contenido
 - id: toc

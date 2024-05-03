@@ -1,5 +1,5 @@
 ---
-title: Hola to Hinode!
+title: Hola descripcion de mama ?
 description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
 thumbnail:
     url: /img/sunrise.jpg
