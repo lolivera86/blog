@@ -35,7 +35,7 @@
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "/blog.github.io/img/logo_icon.svg"
     color = "body"
     fixed = true
     overlay = false

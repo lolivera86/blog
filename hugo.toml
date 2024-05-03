@@ -3,8 +3,3 @@ languageCode = 'es-ES'
 title = 'Coaching con ciencia'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
-
-
-languageCode = "es-ES"
-defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = false

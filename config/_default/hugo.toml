@@ -2,7 +2,3 @@ languageCode = "es-ES"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 canonifyURLs = false
-enableEmoji = true
-enableRobotsTXT = true
-enableInlineShortcodes = true
-summaryLength = 20

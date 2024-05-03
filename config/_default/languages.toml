@@ -1,4 +1,17 @@
+
+
+# toml-docs-start lang-main
 [es]
     languageName = "Español"
     contentDir = "content"
     weight = 1
+# toml-docs-end lang-main
+# toml-docs-start lang-param
+    [es.params.head]
+        tagline = "A Hugo Theme"
+    [es.params.social]
+        title = "Follow me"
+        caption = "I work on everything coding and tweet developer memes"
+    [es.params.footer]
+        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+# toml-docs-end lang-param
