@@ -1,5 +1,5 @@
 [[main]]
-  name = "About"
+  name = "Sobre mi"
   pageRef = "/blog.github.io/about/"
   weight = 10
 
@@ -9,8 +9,8 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  pageRef = "/projects/"
+  name = "Testimonios"
+  pageRef = "/blog.github.io/projects/"
   weight = 30
 
 [[main]]
@@ -36,27 +36,3 @@
   url = "https://linkedin.com/"
   weight = 10
 
-
-# toml-docs-start sample-navigation
-[[sample]]
-  name = "Blog"
-  pageRef = "/blog/"
-  weight = 10
-
-[[sample]]
-  name = "Projects"
-  pageRef = "/projects/"
-  weight = 20
-
-[[sample]]
-  name = "Sample project"
-  pageRef = "/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
-
-[[sample]]
-  name = "Another project"
-  pageRef = "/projects/another-project/"
-  parent = "Projects"
-  weight = 2
-# toml-docs-end sample-navigation

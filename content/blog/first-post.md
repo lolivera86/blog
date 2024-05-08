@@ -1,15 +1,11 @@
 ---
-author: Mark Dumay
-title: First post
-date: 2022-10-01
-description: This is my first blog post.
-tags: ["blog"]
-thumbnail:
-  url: img/notepad.jpg
-  author: Frederick Medina
-  authorURL: https://unsplash.com/@frederickjmedina
-  origin: Unsplash
-  originURL: https://unsplash.com/photos/PdfRE-xB--s
+title: Introduction
+aliases:
+  - "/docs/0.9/getting-started/"
+  - "/docs/getting-started/"
+  - "/getting-started/"
+  - "/docs/"
+layout: docs
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.
